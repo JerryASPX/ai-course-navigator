@@ -58,13 +58,21 @@ https://jerryaspx.github.io/ai-course-navigator/
 2. 貼上同一個網址。
 3. 若 Sites 顯示無法嵌入，是因為 GitHub Pages 不允許被其他網站用框架載入。改用上一節的按鈕或文字連結即可。
 
-## 發佈到 GitHub Pages（手動）
+## 開啟 GitHub Pages（只需一次）
 
-這個倉庫不用 GitHub Actions 重建。`main` 保留原始碼，也保留已建置的 `dist/`。公開網站來自 `gh-pages`：該分支根目錄是 `dist/` 的內容，另加一個空的 `.nojekyll`，避免 GitHub Pages 用 Jekyll 處理 Vite 產物。
+這個倉庫不用 GitHub Actions 重建。`main` 保留原始碼，也保留已建置的 `dist/`。公開網站來自 `gh-pages`：該分支根目錄已經是 `dist/` 的內容（`index.html`、`assets/`），另加一個空的 `.nojekyll`，避免 GitHub Pages 用 Jekyll 處理 Vite 產物。
 
-Pages 來源請維持 `gh-pages` 分支、資料夾 `/`（根目錄）。儲存庫首頁（homepage）設為上面的 Pages 網址。
+建立 Pages 站台與設定 homepage 都需要儲存庫管理員權限。若網址仍是 GitHub 的 Site not found，請用管理員帳號做一次：
 
-更新網站時：
+1. 打開 [Settings → Pages](https://github.com/JerryASPX/ai-course-navigator/settings/pages)。
+2. Build and deployment 的 Source 選 **Deploy from a branch**。
+3. Branch 選 **gh-pages**，資料夾選 **/ (root)**，按 Save。
+4. 在儲存庫首頁右側 About（齒輪）的 Website 填上 `https://jerryaspx.github.io/ai-course-navigator/`。
+
+存檔後約一分鐘再開線上網址，應看到「AI 職涯與課程導航」，而不是 GitHub 的 Site not found。
+
+## 之後更新網站（手動）
+
 
 ```bash
 npm run build
