@@ -8,7 +8,7 @@
 
 https://jerryaspx.github.io/ai-course-navigator/
 
-GitHub Pages 從 `gh-pages` 分支的**根目錄**提供已建置的單頁應用（`index.html` 與 `assets/`），不是 Vite 原始碼。`vite.config.ts` 的 `base` 已設為 `/ai-course-navigator/`，請保持這個前綴，否則靜態資源會 404。
+網站應由 `gh-pages` 分支的**根目錄**提供已建置的單頁應用（`index.html` 與 `assets/`），不是 Vite 原始碼。若還沒在 Settings 選好這個來源，網址會先顯示 GitHub 的 Site not found。`vite.config.ts` 的 `base` 已設為 `/ai-course-navigator/`，請保持這個前綴，否則靜態資源會 404。
 
 ## 本地啟動
 
