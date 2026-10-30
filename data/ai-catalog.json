@@ -1,0 +1,2286 @@
+{
+  "source": "https://www.uuu.com.tw/Course",
+  "scope": "AI課程 + AI影像設計與前端互動 only",
+  "scannedAt": "2026-10-30T14:30:00+08:00",
+  "categoryCount": 2,
+  "courseCount": 112,
+  "rawMentions": 112,
+  "categories": [
+    {
+      "name": "AI影像設計與前端互動",
+      "courseCount": 25,
+      "pdfs": [
+        "https://www.uuu.com.tw/Course/CourseGroup_Pdf/258",
+        "https://www.uuu.com.tw/Course/CourseGroup_Pdf/72",
+        "https://www.uuu.com.tw/Course/CourseGroup_Pdf/198",
+        "https://www.uuu.com.tw/Course/CourseGroup_Pdf/197",
+        "https://www.uuu.com.tw/Course/CourseGroup_Pdf/73",
+        "https://www.uuu.com.tw/Course/CourseGroup_Pdf/196",
+        "https://www.uuu.com.tw/Course/CourseGroup_Pdf/238"
+      ],
+      "courses": [
+        {
+          "name": "AI職場高效簡報術PowerPoint與Copilot實戰整合應用",
+          "coursePKId": 3504,
+          "courseCode": "AI3CPPT",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/3504/AI3CPPT",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "AI免費影片生成黑科技-完整AI影片製作工作流之實戰應用",
+          "coursePKId": 3294,
+          "courseCode": "AI3GC",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/3294/AI3GC",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "解鎖創意新次元最新AI生成影像解析",
+          "coursePKId": 3295,
+          "courseCode": "AI3NBP",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/3295/AI3NBP",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "上班族的「AI簡報神助攻」整合極限班",
+          "coursePKId": 3296,
+          "courseCode": "AI3PT",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/3296/AI3PT",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Figma最熱門-更新功能大補帖",
+          "coursePKId": 3297,
+          "courseCode": "AI3Fig",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/3297/AI3Fig",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "超速掌握AI生成LINE貼圖與完整上架流程",
+          "coursePKId": 3298,
+          "courseCode": "AI3LIN",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/3298/AI3LIN",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "HTML & CSS網頁編輯基礎與AI協作",
+          "coursePKId": 3176,
+          "courseCode": "HCSS",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/3176/HCSS",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Figma Motion全方位動態效果實戰班",
+          "coursePKId": 3472,
+          "courseCode": "FigmaM",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/3472/FigmaM",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Figma專業UI設計實作",
+          "coursePKId": 3179,
+          "courseCode": "FIGMA",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/3179/FIGMA",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Figma最熱門-更新功能大補帖",
+          "coursePKId": 3473,
+          "courseCode": "AI3Fig2",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/3473/AI3Fig2",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Lottie動畫設計全攻略",
+          "coursePKId": 3276,
+          "courseCode": "LOAN",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/3276/LOAN",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "前端必學的網頁開發基礎技能",
+          "coursePKId": 1666,
+          "courseCode": "FEDev",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/1666/FEDev",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Sass與SCSS快速上手",
+          "coursePKId": 1968,
+          "courseCode": "ACSS",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/1968/ACSS",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "前端互動式網頁程式設計-UI與元件設計",
+          "coursePKId": 1668,
+          "courseCode": "FEID",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/1668/FEID",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "JavaScript與jQuery網頁互動實作",
+          "coursePKId": 1147,
+          "courseCode": "jQuery",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/1147/jQuery",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "JQuery 4.0 前端互動開發實戰",
+          "coursePKId": 3340,
+          "courseCode": "JQuery4",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/3340/JQuery4",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "網頁統計圖表Chart.js快速上手",
+          "coursePKId": 3405,
+          "courseCode": "Chjs-Front",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/3405/Chjs-Front",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "輕鬆玩 AI 生成影片與編輯",
+          "coursePKId": 2153,
+          "courseCode": "AIMIC",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/2153/AIMIC",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Google生成式AI-Gemini全攻略",
+          "coursePKId": 2161,
+          "courseCode": "GOAG",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/2161/GOAG",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "使用者介面視覺優化",
+          "coursePKId": 870,
+          "courseCode": "VSDO-Media",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/870/VSDO-Media",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "AI圖片進階生成與修圖整合應用",
+          "coursePKId": 3233,
+          "courseCode": "AIAD",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/3233/AIAD",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Canva入門到進階零基礎輕鬆做設計",
+          "coursePKId": 2152,
+          "courseCode": "CANVA",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/2152/CANVA",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "PowerPoint簡報設計與整合AI生成",
+          "coursePKId": 3225,
+          "courseCode": "PPT-AI",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/3225/PPT-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Microsoft Designer AI 生成設計應用",
+          "coursePKId": 2154,
+          "courseCode": "MDAI",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/2154/MDAI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Framer立即AI生成網頁與設計網頁",
+          "coursePKId": 3293,
+          "courseCode": "AIFra",
+          "category": "AI影像設計與前端互動",
+          "url": "https://www.uuu.com.tw/Course/Show/3293/AIFra",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        }
+      ]
+    },
+    {
+      "name": "AI課程",
+      "courseCount": 87,
+      "pdfs": [
+        "https://www.uuu.com.tw/Course/CourseGroup_Pdf/217",
+        "https://www.uuu.com.tw/Course/CourseGroup_Pdf/269",
+        "https://www.uuu.com.tw/Course/CourseGroup_Pdf/270",
+        "https://www.uuu.com.tw/Course/CourseGroup_Pdf/241",
+        "https://www.uuu.com.tw/Course/CourseGroup_Pdf/244",
+        "https://www.uuu.com.tw/Course/CourseGroup_Pdf/242",
+        "https://www.uuu.com.tw/Course/CourseGroup_Pdf/243",
+        "https://www.uuu.com.tw/Course/CourseGroup_Pdf/271",
+        "https://www.uuu.com.tw/Course/CourseGroup_Pdf/251",
+        "https://www.uuu.com.tw/Course/CourseGroup_Pdf/264",
+        "https://www.uuu.com.tw/Course/CourseGroup_Pdf/273"
+      ],
+      "courses": [
+        {
+          "name": "AI時代必備之職場競爭力",
+          "coursePKId": 3390,
+          "courseCode": "AIWC-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3390/AIWC-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "善用Gemini Notebook提升研究與辦公效率",
+          "coursePKId": 3551,
+          "courseCode": "AIGNM-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3551/AIGNM-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "善用Google NotebookLM實現高效學習",
+          "coursePKId": 3287,
+          "courseCode": "AIGNM-AI-O",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3287/AIGNM-AI-O",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Microsoft Designer AI 生成設計應用",
+          "coursePKId": 3202,
+          "courseCode": "MDAI-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3202/MDAI-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Google生成式AI-Gemini全攻略",
+          "coursePKId": 3203,
+          "courseCode": "GOAG-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3203/GOAG-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "ChatGPT生活應用與影像生成",
+          "coursePKId": 2157,
+          "courseCode": "ImageGPT-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/2157/ImageGPT-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "ChatGPT與Excel整合實戰",
+          "coursePKId": 2049,
+          "courseCode": "GPTEX-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/2049/GPTEX-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "AI職場高效簡報術PowerPoint與Copilot實戰整合應用",
+          "coursePKId": 3505,
+          "courseCode": "AI3CPPT-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3505/AI3CPPT-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "使用Microsoft 365 Copilot協作企業工作流程",
+          "coursePKId": 3311,
+          "courseCode": "AB730-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3311/AB730-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "AI × Excel 智慧工作術：讓AI成為你的Excel神隊友",
+          "coursePKId": 3506,
+          "courseCode": "AIEX-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3506/AIEX-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Excel × AI數據應用全攻略：把AI的答案變成自己的能力",
+          "coursePKId": 3507,
+          "courseCode": "EXAIBF-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3507/EXAIBF-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Excel × AI 自動化實戰：打造專屬智慧工作流程",
+          "coursePKId": 3508,
+          "courseCode": "EXAIVB-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3508/EXAIVB-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Excel × AI 大數據分析實戰：從整理資料進階到洞察數據",
+          "coursePKId": 3509,
+          "courseCode": "EXAIBG-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3509/EXAIBG-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Excel × AI進階數據管理：從會做公式到掌控複雜資料",
+          "coursePKId": 3510,
+          "courseCode": "EXAIAD-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3510/EXAIAD-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "不寫程式打造n8n企業流程自動化實戰",
+          "coursePKId": 3454,
+          "courseCode": "n8nAU-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3454/n8nAU-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "n8n 自動化流程:零基礎到專業級全攻略",
+          "coursePKId": 3335,
+          "courseCode": "n8nall-ai",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3335/n8nall-ai",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "n8n基礎班：從零開始掌握n8n",
+          "coursePKId": 3401,
+          "courseCode": "n8n1-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3401/n8n1-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "n8n進階班：打造專業級n8n自動化方案",
+          "coursePKId": 3402,
+          "courseCode": "n8n2_AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3402/n8n2_AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "零程式碼 AI Agent 開發實戰-使用Dify/n8n",
+          "coursePKId": 3346,
+          "courseCode": "DIFY-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3346/DIFY-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "n8n×大語言模型：從辦公室自動化到企業級 AI 部署的全能實戰班",
+          "coursePKId": 3403,
+          "courseCode": "n8nAI_AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3403/n8nAI_AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Anthropic Claude Code AI協作程式開發課程",
+          "coursePKId": 3452,
+          "courseCode": "ACCW1-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3452/ACCW1-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Anthropic Claude Code AI協作程式開發課程",
+          "coursePKId": 3547,
+          "courseCode": "ACCW-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3547/ACCW-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "OpenAI Codex規格驅動與代理式開發實戰課程",
+          "coursePKId": 3535,
+          "courseCode": "CDSD-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3535/CDSD-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "活用ChatGPT應用程式(原Codex)打造AI助手",
+          "coursePKId": 3533,
+          "courseCode": "CDAA-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3533/CDAA-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "活用ChatGPT應用程式(原Codex)打造AI助手",
+          "coursePKId": 3411,
+          "courseCode": "CDAA2-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3411/CDAA2-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "掌握Claude Code打造企業級全端開發應用實戰班",
+          "coursePKId": 3397,
+          "courseCode": "AICC-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3397/AICC-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "行政AI極速賦能：Google Gemini 3雲端Vibe Coding應用實戰班",
+          "coursePKId": 3313,
+          "courseCode": "AIGVC-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3313/AIGVC-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "AI Agent開發極速轉型：Google Antigravity代理指揮官實戰班",
+          "coursePKId": 3314,
+          "courseCode": "AIGAN-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3314/AIGAN-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Hermes AI Agent Desktop 個人 AI 助理建置與實務應用",
+          "coursePKId": 3457,
+          "courseCode": "HAAD-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3457/HAAD-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "使用GitHub Copilot提高Coding生產力-程式設計AI詠唱",
+          "coursePKId": 2055,
+          "courseCode": "GH300-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/2055/GH300-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "學會Tailwind CSS輕鬆搞定Vibe Coding 版面",
+          "coursePKId": 3344,
+          "courseCode": "VCTC-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3344/VCTC-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Angular Agentic Native下一代AI代理人應用開發實務",
+          "coursePKId": 3342,
+          "courseCode": "AANAI-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3342/AANAI-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "生成式AI實戰演練使用Python語言",
+          "coursePKId": 3211,
+          "courseCode": "Aipy-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3211/Aipy-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "AI電腦視覺OpenCV",
+          "coursePKId": 3173,
+          "courseCode": "AIOCV-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3173/AIOCV-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Python機器學習-使用Scikit-Learn",
+          "coursePKId": 3171,
+          "courseCode": "PYML-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3171/PYML-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Python與機器學習深度學習-使用Keras與TensorFlow",
+          "coursePKId": 3172,
+          "courseCode": "PyKT-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3172/PyKT-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Python中文自然語言NLP深度學習與大型語言LLM專家課程",
+          "coursePKId": 2023,
+          "courseCode": "PNLP-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/2023/PNLP-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "KNIME機器學習建模Low Code No Code",
+          "coursePKId": 3404,
+          "courseCode": "KNIME-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3404/KNIME-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Azure AI簡介",
+          "coursePKId": 3326,
+          "courseCode": "AI901-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3326/AI901-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "M365 Copilot Chat與Power Platform雲地整合自動化實務",
+          "coursePKId": 3502,
+          "courseCode": "MCCPP-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3502/MCCPP-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "使用Microsoft Power Platform建立智慧型應用程式",
+          "coursePKId": 3461,
+          "courseCode": "AB410-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3461/AB410-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "使用程式碼與AI擴充Microsoft Power Platform解決方案",
+          "coursePKId": 3554,
+          "courseCode": "AB400-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3554/AB400-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "在Azure上開發AI雲端解決方案",
+          "coursePKId": 3395,
+          "courseCode": "AI200-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3395/AI200-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "在Azure上開發AI應用程式與AI Agent",
+          "coursePKId": 3388,
+          "courseCode": "AI103-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3388/AI103-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "在Azure上運作機器學習與生成式AI解決方案",
+          "coursePKId": 3376,
+          "courseCode": "AI300-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3376/AI300-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "開發具AI能力的微軟資料庫解決方案",
+          "coursePKId": 3469,
+          "courseCode": "DP800-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3469/DP800-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "AI與SQL Server 2025",
+          "coursePKId": 3312,
+          "courseCode": "AISQL-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3312/AISQL-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "對談機器人與AI Agent開發實戰–使用OpenAI API",
+          "coursePKId": 2047,
+          "courseCode": "GPT-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/2047/GPT-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "掌握GitHub Copilot Agentic Coding：規格驅動開發實戰班",
+          "coursePKId": 3538,
+          "courseCode": "GCSD-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3538/GCSD-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": ".NET AI開發治理：GitHub Copilot × OWASP SAMM × ASVS的SSDLC安全性開發實務課程",
+          "coursePKId": 3539,
+          "courseCode": "USSDLC-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3539/USSDLC-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "使用Visual Studio Code開發Azure Open AI應用程式",
+          "coursePKId": 3386,
+          "courseCode": "OPAI-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3386/OPAI-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Git版本控制與GitHub協作入門",
+          "coursePKId": 3380,
+          "courseCode": "GH900-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3380/GH900-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "GitHub Actions工作流程自動化",
+          "coursePKId": 3381,
+          "courseCode": "GH200-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3381/GH200-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "實現AI賦能的SDLC：GitHub Copilot全流程開發實戰",
+          "coursePKId": 3542,
+          "courseCode": "ASDG-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3542/ASDG-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "AI時代團隊的軟體開發生命週期(AI SDLC)實戰",
+          "coursePKId": 3558,
+          "courseCode": "ADAD-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3558/ADAD-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "AI時代的軟體架構設計",
+          "coursePKId": 3559,
+          "courseCode": "SACD-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3559/SACD-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Generative AI Essentials on AWS",
+          "coursePKId": 3196,
+          "courseCode": "AWAIML-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3196/AWAIML-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Agentic AI Foundations",
+          "coursePKId": 3478,
+          "courseCode": "AWAIAF-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3478/AWAIAF-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "在AWS上開發生成式AI應用程式",
+          "coursePKId": 3198,
+          "courseCode": "AWAIDG-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3198/AWAIDG-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "在AWS上開發進階的生成式AI應用",
+          "coursePKId": 3352,
+          "courseCode": "AWAIAGD-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3352/AWAIAGD-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "AWS AI Practitioner認證準備及AWS App Studio實作課程",
+          "coursePKId": 3274,
+          "courseCode": "AWAIPEH-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3274/AWAIPEH-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Building Agentic AI with Amazon Bedrock AgentCore",
+          "coursePKId": 3465,
+          "courseCode": "AWAIABA-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3465/AWAIABA-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Building Advanced Agentic Systems on AWS",
+          "coursePKId": 3466,
+          "courseCode": "AWAIAAS-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3466/AWAIAAS-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "Amazon Quick for AI-Powered Productivity and Business Intelligence",
+          "coursePKId": 3467,
+          "courseCode": "AWAIAQP-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3467/AWAIAQP-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "使用Google Cloud進行AI與機器學習的基礎介紹",
+          "coursePKId": 3174,
+          "courseCode": "GCPAI-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3174/GCPAI-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "使用Google Cloud開發大語言模型(LLM)應用程式",
+          "coursePKId": 3362,
+          "courseCode": "GCPADL-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3362/GCPADL-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "在正式生產環境部署生成式AI",
+          "coursePKId": 3363,
+          "courseCode": "GCPGAP-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3363/GCPGAP-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "開發具有搜尋與代理功能的AI應用程式",
+          "coursePKId": 3364,
+          "courseCode": "GCPDSA-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3364/GCPDSA-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "生成式AI之大語言模型入門 - 以ollama建置本地化LLM服務為例",
+          "coursePKId": 3206,
+          "courseCode": "BLLM-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3206/BLLM-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "使用容器化技術(docker/kubernetes)建立本地化LLM大語言",
+          "coursePKId": 3207,
+          "courseCode": "DKL-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3207/DKL-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "掌握ChatGPT進行道德駭客攻擊和滲透測試",
+          "coursePKId": 2046,
+          "courseCode": "GPTEH-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/2046/GPTEH-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "CompTIA SecAI＋國際AI資安認證班",
+          "coursePKId": 3329,
+          "courseCode": "COMPAI-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3329/COMPAI-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "EC-Council CCISO資安長課程",
+          "coursePKId": 3474,
+          "courseCode": "CCISO-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3474/CCISO-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "EC-Council AI 素養國際認證課程",
+          "coursePKId": 3350,
+          "courseCode": "ECAIE-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3350/ECAIE-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "EC-Council CEH駭客技術專家認證課程",
+          "coursePKId": 3236,
+          "courseCode": "CEH13-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3236/CEH13-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "EC-Council CPENT滲透測試專家認證課程",
+          "coursePKId": 3237,
+          "courseCode": "CPENT-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3237/CPENT-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "EC-Council COASP AI資安專家認證課程",
+          "coursePKId": 3353,
+          "courseCode": "COASP-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3353/COASP-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "OSAI＋認證課程AI-300：Advanced AI Red Teaming",
+          "coursePKId": 3409,
+          "courseCode": "OSAI-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3409/OSAI-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "一人紫隊：AI Agent 企業 Cyber Range 紅藍隊自動化對抗實戰課程",
+          "coursePKId": 3455,
+          "courseCode": "UECR2-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3455/UECR2-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "AI時代的專案經理：從管理交付到驅動價值",
+          "coursePKId": 3525,
+          "courseCode": "AIPM-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3525/AIPM-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "AI時代的關鍵引導力：利害關係人溝通與高成效決策工作坊",
+          "coursePKId": 3526,
+          "courseCode": "READ-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3526/READ-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "AI賦能需求實體化：從問題到可驗證成果的實戰工作坊",
+          "coursePKId": 3389,
+          "courseCode": "AIUX-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3389/AIUX-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "AI工作坊：組建與指揮整合AI工具成為你的工作團隊",
+          "coursePKId": 3400,
+          "courseCode": "AIteam",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3400/AIteam",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "AI協作的專案管理實戰技能",
+          "coursePKId": 3393,
+          "courseCode": "PAPM-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3393/PAPM-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "EC-Council CAIPM AI專案經理國際認證課程",
+          "coursePKId": 3377,
+          "courseCode": "CAIPM-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3377/CAIPM-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "iPAS初級AI應用規劃師能力鑑定考試輔導班",
+          "coursePKId": 3486,
+          "courseCode": "iPASAIAP-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3486/iPASAIAP-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        },
+        {
+          "name": "iPAS中級AI應用規劃師能力鑑定考試輔導班",
+          "coursePKId": 3485,
+          "courseCode": "iPASAIML1-AI",
+          "category": "AI課程",
+          "url": "https://www.uuu.com.tw/Course/Show/3485/iPASAIML1-AI",
+          "prerequisites": "待確認",
+          "nextCourses": "待確認",
+          "difficulty": "待確認"
+        }
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "name": "AI免費影片生成黑科技-完整AI影片製作工作流之實戰應用",
+      "coursePKId": 3294,
+      "courseCode": "AI3GC",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/3294/AI3GC",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "AI圖片進階生成與修圖整合應用",
+      "coursePKId": 3233,
+      "courseCode": "AIAD",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/3233/AIAD",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "AI職場高效簡報術PowerPoint與Copilot實戰整合應用",
+      "coursePKId": 3504,
+      "courseCode": "AI3CPPT",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/3504/AI3CPPT",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Canva入門到進階零基礎輕鬆做設計",
+      "coursePKId": 2152,
+      "courseCode": "CANVA",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/2152/CANVA",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Figma Motion全方位動態效果實戰班",
+      "coursePKId": 3472,
+      "courseCode": "FigmaM",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/3472/FigmaM",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Figma專業UI設計實作",
+      "coursePKId": 3179,
+      "courseCode": "FIGMA",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/3179/FIGMA",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Figma最熱門-更新功能大補帖",
+      "coursePKId": 3297,
+      "courseCode": "AI3Fig",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/3297/AI3Fig",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Figma最熱門-更新功能大補帖",
+      "coursePKId": 3473,
+      "courseCode": "AI3Fig2",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/3473/AI3Fig2",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Framer立即AI生成網頁與設計網頁",
+      "coursePKId": 3293,
+      "courseCode": "AIFra",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/3293/AIFra",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Google生成式AI-Gemini全攻略",
+      "coursePKId": 2161,
+      "courseCode": "GOAG",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/2161/GOAG",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "HTML & CSS網頁編輯基礎與AI協作",
+      "coursePKId": 3176,
+      "courseCode": "HCSS",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/3176/HCSS",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "JQuery 4.0 前端互動開發實戰",
+      "coursePKId": 3340,
+      "courseCode": "JQuery4",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/3340/JQuery4",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "JavaScript與jQuery網頁互動實作",
+      "coursePKId": 1147,
+      "courseCode": "jQuery",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/1147/jQuery",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Lottie動畫設計全攻略",
+      "coursePKId": 3276,
+      "courseCode": "LOAN",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/3276/LOAN",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Microsoft Designer AI 生成設計應用",
+      "coursePKId": 2154,
+      "courseCode": "MDAI",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/2154/MDAI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "PowerPoint簡報設計與整合AI生成",
+      "coursePKId": 3225,
+      "courseCode": "PPT-AI",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/3225/PPT-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Sass與SCSS快速上手",
+      "coursePKId": 1968,
+      "courseCode": "ACSS",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/1968/ACSS",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "上班族的「AI簡報神助攻」整合極限班",
+      "coursePKId": 3296,
+      "courseCode": "AI3PT",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/3296/AI3PT",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "使用者介面視覺優化",
+      "coursePKId": 870,
+      "courseCode": "VSDO-Media",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/870/VSDO-Media",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "前端互動式網頁程式設計-UI與元件設計",
+      "coursePKId": 1668,
+      "courseCode": "FEID",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/1668/FEID",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "前端必學的網頁開發基礎技能",
+      "coursePKId": 1666,
+      "courseCode": "FEDev",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/1666/FEDev",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "網頁統計圖表Chart.js快速上手",
+      "coursePKId": 3405,
+      "courseCode": "Chjs-Front",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/3405/Chjs-Front",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "解鎖創意新次元最新AI生成影像解析",
+      "coursePKId": 3295,
+      "courseCode": "AI3NBP",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/3295/AI3NBP",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "超速掌握AI生成LINE貼圖與完整上架流程",
+      "coursePKId": 3298,
+      "courseCode": "AI3LIN",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/3298/AI3LIN",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "輕鬆玩 AI 生成影片與編輯",
+      "coursePKId": 2153,
+      "courseCode": "AIMIC",
+      "category": "AI影像設計與前端互動",
+      "url": "https://www.uuu.com.tw/Course/Show/2153/AIMIC",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": ".NET AI開發治理：GitHub Copilot × OWASP SAMM × ASVS的SSDLC安全性開發實務課程",
+      "coursePKId": 3539,
+      "courseCode": "USSDLC-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3539/USSDLC-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "AI Agent開發極速轉型：Google Antigravity代理指揮官實戰班",
+      "coursePKId": 3314,
+      "courseCode": "AIGAN-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3314/AIGAN-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "AI × Excel 智慧工作術：讓AI成為你的Excel神隊友",
+      "coursePKId": 3506,
+      "courseCode": "AIEX-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3506/AIEX-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "AI協作的專案管理實戰技能",
+      "coursePKId": 3393,
+      "courseCode": "PAPM-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3393/PAPM-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "AI工作坊：組建與指揮整合AI工具成為你的工作團隊",
+      "coursePKId": 3400,
+      "courseCode": "AIteam",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3400/AIteam",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "AI時代團隊的軟體開發生命週期(AI SDLC)實戰",
+      "coursePKId": 3558,
+      "courseCode": "ADAD-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3558/ADAD-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "AI時代必備之職場競爭力",
+      "coursePKId": 3390,
+      "courseCode": "AIWC-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3390/AIWC-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "AI時代的專案經理：從管理交付到驅動價值",
+      "coursePKId": 3525,
+      "courseCode": "AIPM-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3525/AIPM-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "AI時代的軟體架構設計",
+      "coursePKId": 3559,
+      "courseCode": "SACD-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3559/SACD-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "AI時代的關鍵引導力：利害關係人溝通與高成效決策工作坊",
+      "coursePKId": 3526,
+      "courseCode": "READ-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3526/READ-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "AI職場高效簡報術PowerPoint與Copilot實戰整合應用",
+      "coursePKId": 3505,
+      "courseCode": "AI3CPPT-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3505/AI3CPPT-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "AI與SQL Server 2025",
+      "coursePKId": 3312,
+      "courseCode": "AISQL-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3312/AISQL-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "AI賦能需求實體化：從問題到可驗證成果的實戰工作坊",
+      "coursePKId": 3389,
+      "courseCode": "AIUX-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3389/AIUX-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "AI電腦視覺OpenCV",
+      "coursePKId": 3173,
+      "courseCode": "AIOCV-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3173/AIOCV-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "AWS AI Practitioner認證準備及AWS App Studio實作課程",
+      "coursePKId": 3274,
+      "courseCode": "AWAIPEH-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3274/AWAIPEH-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Agentic AI Foundations",
+      "coursePKId": 3478,
+      "courseCode": "AWAIAF-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3478/AWAIAF-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Amazon Quick for AI-Powered Productivity and Business Intelligence",
+      "coursePKId": 3467,
+      "courseCode": "AWAIAQP-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3467/AWAIAQP-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Angular Agentic Native下一代AI代理人應用開發實務",
+      "coursePKId": 3342,
+      "courseCode": "AANAI-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3342/AANAI-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Anthropic Claude Code AI協作程式開發課程",
+      "coursePKId": 3452,
+      "courseCode": "ACCW1-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3452/ACCW1-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Anthropic Claude Code AI協作程式開發課程",
+      "coursePKId": 3547,
+      "courseCode": "ACCW-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3547/ACCW-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Azure AI簡介",
+      "coursePKId": 3326,
+      "courseCode": "AI901-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3326/AI901-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Building Advanced Agentic Systems on AWS",
+      "coursePKId": 3466,
+      "courseCode": "AWAIAAS-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3466/AWAIAAS-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Building Agentic AI with Amazon Bedrock AgentCore",
+      "coursePKId": 3465,
+      "courseCode": "AWAIABA-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3465/AWAIABA-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "ChatGPT生活應用與影像生成",
+      "coursePKId": 2157,
+      "courseCode": "ImageGPT-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/2157/ImageGPT-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "ChatGPT與Excel整合實戰",
+      "coursePKId": 2049,
+      "courseCode": "GPTEX-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/2049/GPTEX-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "CompTIA SecAI＋國際AI資安認證班",
+      "coursePKId": 3329,
+      "courseCode": "COMPAI-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3329/COMPAI-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "EC-Council AI 素養國際認證課程",
+      "coursePKId": 3350,
+      "courseCode": "ECAIE-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3350/ECAIE-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "EC-Council CAIPM AI專案經理國際認證課程",
+      "coursePKId": 3377,
+      "courseCode": "CAIPM-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3377/CAIPM-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "EC-Council CCISO資安長課程",
+      "coursePKId": 3474,
+      "courseCode": "CCISO-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3474/CCISO-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "EC-Council CEH駭客技術專家認證課程",
+      "coursePKId": 3236,
+      "courseCode": "CEH13-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3236/CEH13-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "EC-Council COASP AI資安專家認證課程",
+      "coursePKId": 3353,
+      "courseCode": "COASP-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3353/COASP-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "EC-Council CPENT滲透測試專家認證課程",
+      "coursePKId": 3237,
+      "courseCode": "CPENT-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3237/CPENT-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Excel × AI 大數據分析實戰：從整理資料進階到洞察數據",
+      "coursePKId": 3509,
+      "courseCode": "EXAIBG-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3509/EXAIBG-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Excel × AI 自動化實戰：打造專屬智慧工作流程",
+      "coursePKId": 3508,
+      "courseCode": "EXAIVB-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3508/EXAIVB-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Excel × AI數據應用全攻略：把AI的答案變成自己的能力",
+      "coursePKId": 3507,
+      "courseCode": "EXAIBF-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3507/EXAIBF-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Excel × AI進階數據管理：從會做公式到掌控複雜資料",
+      "coursePKId": 3510,
+      "courseCode": "EXAIAD-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3510/EXAIAD-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Generative AI Essentials on AWS",
+      "coursePKId": 3196,
+      "courseCode": "AWAIML-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3196/AWAIML-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "GitHub Actions工作流程自動化",
+      "coursePKId": 3381,
+      "courseCode": "GH200-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3381/GH200-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Git版本控制與GitHub協作入門",
+      "coursePKId": 3380,
+      "courseCode": "GH900-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3380/GH900-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Google生成式AI-Gemini全攻略",
+      "coursePKId": 3203,
+      "courseCode": "GOAG-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3203/GOAG-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Hermes AI Agent Desktop 個人 AI 助理建置與實務應用",
+      "coursePKId": 3457,
+      "courseCode": "HAAD-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3457/HAAD-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "KNIME機器學習建模Low Code No Code",
+      "coursePKId": 3404,
+      "courseCode": "KNIME-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3404/KNIME-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "M365 Copilot Chat與Power Platform雲地整合自動化實務",
+      "coursePKId": 3502,
+      "courseCode": "MCCPP-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3502/MCCPP-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Microsoft Designer AI 生成設計應用",
+      "coursePKId": 3202,
+      "courseCode": "MDAI-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3202/MDAI-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "OSAI＋認證課程AI-300：Advanced AI Red Teaming",
+      "coursePKId": 3409,
+      "courseCode": "OSAI-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3409/OSAI-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "OpenAI Codex規格驅動與代理式開發實戰課程",
+      "coursePKId": 3535,
+      "courseCode": "CDSD-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3535/CDSD-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Python中文自然語言NLP深度學習與大型語言LLM專家課程",
+      "coursePKId": 2023,
+      "courseCode": "PNLP-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/2023/PNLP-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Python機器學習-使用Scikit-Learn",
+      "coursePKId": 3171,
+      "courseCode": "PYML-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3171/PYML-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "Python與機器學習深度學習-使用Keras與TensorFlow",
+      "coursePKId": 3172,
+      "courseCode": "PyKT-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3172/PyKT-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "iPAS中級AI應用規劃師能力鑑定考試輔導班",
+      "coursePKId": 3485,
+      "courseCode": "iPASAIML1-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3485/iPASAIML1-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "iPAS初級AI應用規劃師能力鑑定考試輔導班",
+      "coursePKId": 3486,
+      "courseCode": "iPASAIAP-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3486/iPASAIAP-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "n8n 自動化流程:零基礎到專業級全攻略",
+      "coursePKId": 3335,
+      "courseCode": "n8nall-ai",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3335/n8nall-ai",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "n8n×大語言模型：從辦公室自動化到企業級 AI 部署的全能實戰班",
+      "coursePKId": 3403,
+      "courseCode": "n8nAI_AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3403/n8nAI_AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "n8n基礎班：從零開始掌握n8n",
+      "coursePKId": 3401,
+      "courseCode": "n8n1-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3401/n8n1-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "n8n進階班：打造專業級n8n自動化方案",
+      "coursePKId": 3402,
+      "courseCode": "n8n2_AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3402/n8n2_AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "一人紫隊：AI Agent 企業 Cyber Range 紅藍隊自動化對抗實戰課程",
+      "coursePKId": 3455,
+      "courseCode": "UECR2-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3455/UECR2-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "不寫程式打造n8n企業流程自動化實戰",
+      "coursePKId": 3454,
+      "courseCode": "n8nAU-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3454/n8nAU-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "使用GitHub Copilot提高Coding生產力-程式設計AI詠唱",
+      "coursePKId": 2055,
+      "courseCode": "GH300-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/2055/GH300-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "使用Google Cloud進行AI與機器學習的基礎介紹",
+      "coursePKId": 3174,
+      "courseCode": "GCPAI-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3174/GCPAI-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "使用Google Cloud開發大語言模型(LLM)應用程式",
+      "coursePKId": 3362,
+      "courseCode": "GCPADL-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3362/GCPADL-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "使用Microsoft 365 Copilot協作企業工作流程",
+      "coursePKId": 3311,
+      "courseCode": "AB730-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3311/AB730-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "使用Microsoft Power Platform建立智慧型應用程式",
+      "coursePKId": 3461,
+      "courseCode": "AB410-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3461/AB410-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "使用Visual Studio Code開發Azure Open AI應用程式",
+      "coursePKId": 3386,
+      "courseCode": "OPAI-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3386/OPAI-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "使用容器化技術(docker/kubernetes)建立本地化LLM大語言",
+      "coursePKId": 3207,
+      "courseCode": "DKL-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3207/DKL-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "使用程式碼與AI擴充Microsoft Power Platform解決方案",
+      "coursePKId": 3554,
+      "courseCode": "AB400-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3554/AB400-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "善用Gemini Notebook提升研究與辦公效率",
+      "coursePKId": 3551,
+      "courseCode": "AIGNM-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3551/AIGNM-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "善用Google NotebookLM實現高效學習",
+      "coursePKId": 3287,
+      "courseCode": "AIGNM-AI-O",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3287/AIGNM-AI-O",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "在AWS上開發生成式AI應用程式",
+      "coursePKId": 3198,
+      "courseCode": "AWAIDG-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3198/AWAIDG-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "在AWS上開發進階的生成式AI應用",
+      "coursePKId": 3352,
+      "courseCode": "AWAIAGD-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3352/AWAIAGD-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "在Azure上運作機器學習與生成式AI解決方案",
+      "coursePKId": 3376,
+      "courseCode": "AI300-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3376/AI300-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "在Azure上開發AI應用程式與AI Agent",
+      "coursePKId": 3388,
+      "courseCode": "AI103-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3388/AI103-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "在Azure上開發AI雲端解決方案",
+      "coursePKId": 3395,
+      "courseCode": "AI200-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3395/AI200-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "在正式生產環境部署生成式AI",
+      "coursePKId": 3363,
+      "courseCode": "GCPGAP-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3363/GCPGAP-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "學會Tailwind CSS輕鬆搞定Vibe Coding 版面",
+      "coursePKId": 3344,
+      "courseCode": "VCTC-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3344/VCTC-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "實現AI賦能的SDLC：GitHub Copilot全流程開發實戰",
+      "coursePKId": 3542,
+      "courseCode": "ASDG-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3542/ASDG-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "對談機器人與AI Agent開發實戰–使用OpenAI API",
+      "coursePKId": 2047,
+      "courseCode": "GPT-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/2047/GPT-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "掌握ChatGPT進行道德駭客攻擊和滲透測試",
+      "coursePKId": 2046,
+      "courseCode": "GPTEH-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/2046/GPTEH-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "掌握Claude Code打造企業級全端開發應用實戰班",
+      "coursePKId": 3397,
+      "courseCode": "AICC-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3397/AICC-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "掌握GitHub Copilot Agentic Coding：規格驅動開發實戰班",
+      "coursePKId": 3538,
+      "courseCode": "GCSD-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3538/GCSD-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "活用ChatGPT應用程式(原Codex)打造AI助手",
+      "coursePKId": 3533,
+      "courseCode": "CDAA-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3533/CDAA-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "活用ChatGPT應用程式(原Codex)打造AI助手",
+      "coursePKId": 3411,
+      "courseCode": "CDAA2-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3411/CDAA2-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "生成式AI之大語言模型入門 - 以ollama建置本地化LLM服務為例",
+      "coursePKId": 3206,
+      "courseCode": "BLLM-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3206/BLLM-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "生成式AI實戰演練使用Python語言",
+      "coursePKId": 3211,
+      "courseCode": "Aipy-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3211/Aipy-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "行政AI極速賦能：Google Gemini 3雲端Vibe Coding應用實戰班",
+      "coursePKId": 3313,
+      "courseCode": "AIGVC-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3313/AIGVC-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "開發具AI能力的微軟資料庫解決方案",
+      "coursePKId": 3469,
+      "courseCode": "DP800-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3469/DP800-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "開發具有搜尋與代理功能的AI應用程式",
+      "coursePKId": 3364,
+      "courseCode": "GCPDSA-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3364/GCPDSA-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    },
+    {
+      "name": "零程式碼 AI Agent 開發實戰-使用Dify/n8n",
+      "coursePKId": 3346,
+      "courseCode": "DIFY-AI",
+      "category": "AI課程",
+      "url": "https://www.uuu.com.tw/Course/Show/3346/DIFY-AI",
+      "prerequisites": "待確認",
+      "nextCourses": "待確認",
+      "difficulty": "待確認"
+    }
+  ]
+}

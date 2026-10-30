@@ -1,0 +1,27 @@
+﻿你是資深前端工程師。請在本目錄 C:\Users\Jerry\AI-Course-Navigator 實作「AI 職涯與課程導航」可操作 MVP。
+
+必讀：
+1. DEVELOPMENT_SPEC.md（本目錄）
+2. docs\chatgpt-source-mvp.md
+3. docs\SPEC-AI-QA.md
+4. data\seed-courses.json（種子課，已有真實官網 URL）
+5. data\ai-catalog.json（僅 AI課程 + AI影像設計與前端互動，112 門骨架）
+
+硬性要求：
+- React + Vite + TypeScript；繁體中文介面
+- 課程推薦用明確規則引擎，禁止用 LLM 決定推薦
+- course_url 必須用種子／目錄裡的 uuu.com.tw 真實連結；不可造假 URL
+- status=pending_review 或沒有 course_url 的課不可推薦
+- 範圍只做這兩類 AI；不要掃其他種類
+- 問卷 Q1–Q10 條件分流（不計分），每題有「不確定」
+- 結果頁：方向、原因、程度／缺口、首選1＋備選最多2、官網連結、學習路線、SVG 流程圖可下載、不建議的課、FAQ 快捷提問（本地資料）、業務解說版切換、簡易名單收集（localStorage）
+- 不要需要 API key 的服務；不要 git push／部署
+- 先備／時數／價格若種子標「待確認」，介面標示待確認，不要捏造
+
+實作順序：
+1. npm create vite 專案結構（可直接在本目錄建 src，或子目錄 app；選最乾淨的方式）
+2. 匯入 seed-courses.json，補齊合理的 tags／needs_*／recommended_*（可依課程名稱推斷，但 hours/price 保持 null／待確認）
+3. 規則引擎 + 問卷 + 結果頁 + SVG
+4. npm install && npm run build 必須通過；附 README 啟動指令
+
+完成後回報：修改檔案列表、啟動指令、測試結果、尚未完成項目。

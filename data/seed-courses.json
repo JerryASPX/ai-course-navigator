@@ -1,0 +1,487 @@
+{
+  "courses": [
+    {
+      "course_id": "uuu-3400",
+      "code": "AIteam",
+      "name": "AI工作坊：組建與指揮整合AI工具成為你的工作團隊",
+      "primary_category": "AI-01",
+      "tags": [
+        "generative-ai",
+        "workplace"
+      ],
+      "level": "待確認",
+      "target_roles": [
+        "knowledge-worker"
+      ],
+      "plain_description": "待確認",
+      "sales_description": "待確認",
+      "prerequisites": "待確認",
+      "needs_programming": "待確認",
+      "needs_python": "待確認",
+      "needs_ml_basics": "否",
+      "hours": null,
+      "price": null,
+      "course_url": "https://www.uuu.com.tw/Course/Show/3400/AIteam",
+      "schedule_url": "",
+      "status": "active",
+      "recommended_before": [],
+      "recommended_after": [
+        "uuu-3203"
+      ],
+      "faq": [],
+      "source_url": "https://www.uuu.com.tw/Course/Show/3400/AIteam",
+      "last_synced_at": "2026-10-30T14:30:00+08:00",
+      "last_verified_at": null,
+      "pending_review_reason": null
+    },
+    {
+      "course_id": "uuu-3203",
+      "code": "GOAG-AI",
+      "name": "Google生成式AI-Gemini全攻略",
+      "primary_category": "AI-01",
+      "tags": [
+        "generative-ai",
+        "workplace"
+      ],
+      "level": "待確認",
+      "target_roles": [
+        "knowledge-worker"
+      ],
+      "plain_description": "待確認",
+      "sales_description": "待確認",
+      "prerequisites": "待確認",
+      "needs_programming": "待確認",
+      "needs_python": "待確認",
+      "needs_ml_basics": "否",
+      "hours": null,
+      "price": null,
+      "course_url": "https://www.uuu.com.tw/Course/Show/3203/GOAG-AI",
+      "schedule_url": "",
+      "status": "active",
+      "recommended_before": [
+        "uuu-3400"
+      ],
+      "recommended_after": [
+        "uuu-3225"
+      ],
+      "faq": [],
+      "source_url": "https://www.uuu.com.tw/Course/Show/3203/GOAG-AI",
+      "last_synced_at": "2026-10-30T14:30:00+08:00",
+      "last_verified_at": null,
+      "pending_review_reason": null
+    },
+    {
+      "course_id": "uuu-3225",
+      "code": "PPT-AI",
+      "name": "PowerPoint簡報設計與整合AI生成",
+      "primary_category": "AI-01",
+      "tags": [
+        "generative-ai",
+        "workplace"
+      ],
+      "level": "待確認",
+      "target_roles": [
+        "knowledge-worker"
+      ],
+      "plain_description": "待確認",
+      "sales_description": "待確認",
+      "prerequisites": "待確認",
+      "needs_programming": "待確認",
+      "needs_python": "待確認",
+      "needs_ml_basics": "否",
+      "hours": null,
+      "price": null,
+      "course_url": "https://www.uuu.com.tw/Course/Show/3225/PPT-AI",
+      "schedule_url": "",
+      "status": "active",
+      "recommended_before": [
+        "uuu-3203"
+      ],
+      "recommended_after": [],
+      "faq": [],
+      "source_url": "https://www.uuu.com.tw/Course/Show/3225/PPT-AI",
+      "last_synced_at": "2026-10-30T14:30:00+08:00",
+      "last_verified_at": null,
+      "pending_review_reason": null
+    },
+    {
+      "course_id": "uuu-3346",
+      "code": "DIFY-AI",
+      "name": "零程式碼 AI Agent 開發實戰-使用Dify/n8n",
+      "primary_category": "AI-02",
+      "tags": [
+        "agent",
+        "automation"
+      ],
+      "level": "待確認",
+      "target_roles": [
+        "operations"
+      ],
+      "plain_description": "待確認",
+      "sales_description": "待確認",
+      "prerequisites": "待確認",
+      "needs_programming": "待確認",
+      "needs_python": "待確認",
+      "needs_ml_basics": "否",
+      "hours": null,
+      "price": null,
+      "course_url": "https://www.uuu.com.tw/Course/Show/3346/DIFY-AI",
+      "schedule_url": "",
+      "status": "active",
+      "recommended_before": [],
+      "recommended_after": [],
+      "faq": [],
+      "source_url": "https://www.uuu.com.tw/Course/Show/3346/DIFY-AI",
+      "last_synced_at": "2026-10-30T14:30:00+08:00",
+      "last_verified_at": null,
+      "pending_review_reason": null
+    },
+    {
+      "course_id": "uuu-3211",
+      "code": "Aipy-AI",
+      "name": "生成式AI實戰演練使用Python語言",
+      "primary_category": "AI-04",
+      "tags": [
+        "python",
+        "machine-learning"
+      ],
+      "level": "待確認",
+      "target_roles": [
+        "data-practitioner"
+      ],
+      "plain_description": "待確認",
+      "sales_description": "待確認",
+      "prerequisites": "待確認",
+      "needs_programming": "待確認",
+      "needs_python": "待確認",
+      "needs_ml_basics": "否",
+      "hours": null,
+      "price": null,
+      "course_url": "https://www.uuu.com.tw/Course/Show/3211/Aipy-AI",
+      "schedule_url": "",
+      "status": "active",
+      "recommended_before": [],
+      "recommended_after": [
+        "uuu-3198"
+      ],
+      "faq": [],
+      "source_url": "https://www.uuu.com.tw/Course/Show/3211/Aipy-AI",
+      "last_synced_at": "2026-10-30T14:30:00+08:00",
+      "last_verified_at": null,
+      "pending_review_reason": null
+    },
+    {
+      "course_id": "uuu-3198",
+      "code": "AWAIDG-AI",
+      "name": "在AWS上開發生成式AI應用程式",
+      "primary_category": "AI-04",
+      "tags": [
+        "cloud-ai",
+        "generative-ai"
+      ],
+      "level": "待確認",
+      "target_roles": [
+        "cloud-engineer"
+      ],
+      "plain_description": "待確認",
+      "sales_description": "待確認",
+      "prerequisites": "待確認",
+      "needs_programming": "待確認",
+      "needs_python": "待確認",
+      "needs_ml_basics": "否",
+      "hours": null,
+      "price": null,
+      "course_url": "https://www.uuu.com.tw/Course/Show/3198/AWAIDG-AI",
+      "schedule_url": "",
+      "status": "active",
+      "recommended_before": [
+        "uuu-3211"
+      ],
+      "recommended_after": [
+        "uuu-3362"
+      ],
+      "faq": [],
+      "source_url": "https://www.uuu.com.tw/Course/Show/3198/AWAIDG-AI",
+      "last_synced_at": "2026-10-30T14:30:00+08:00",
+      "last_verified_at": null,
+      "pending_review_reason": null
+    },
+    {
+      "course_id": "uuu-3362",
+      "code": "GCPADL-AI",
+      "name": "使用Google Cloud開發大語言模型(LLM)應用程式",
+      "primary_category": "AI-04",
+      "tags": [
+        "cloud-ai",
+        "generative-ai"
+      ],
+      "level": "待確認",
+      "target_roles": [
+        "cloud-engineer"
+      ],
+      "plain_description": "待確認",
+      "sales_description": "待確認",
+      "prerequisites": "待確認",
+      "needs_programming": "待確認",
+      "needs_python": "待確認",
+      "needs_ml_basics": "否",
+      "hours": null,
+      "price": null,
+      "course_url": "https://www.uuu.com.tw/Course/Show/3362/GCPADL-AI",
+      "schedule_url": "",
+      "status": "active",
+      "recommended_before": [
+        "uuu-3198"
+      ],
+      "recommended_after": [],
+      "faq": [],
+      "source_url": "https://www.uuu.com.tw/Course/Show/3362/GCPADL-AI",
+      "last_synced_at": "2026-10-30T14:30:00+08:00",
+      "last_verified_at": null,
+      "pending_review_reason": null
+    },
+    {
+      "course_id": "uuu-3547",
+      "code": "ACCW-AI",
+      "name": "Anthropic Claude Code AI協作程式開發課程",
+      "primary_category": "AI-03",
+      "tags": [
+        "ai-coding",
+        "software"
+      ],
+      "level": "待確認",
+      "target_roles": [
+        "developer"
+      ],
+      "plain_description": "待確認",
+      "sales_description": "待確認",
+      "prerequisites": "待確認",
+      "needs_programming": "待確認",
+      "needs_python": "待確認",
+      "needs_ml_basics": "否",
+      "hours": null,
+      "price": null,
+      "course_url": "https://www.uuu.com.tw/Course/Show/3547/ACCW-AI",
+      "schedule_url": "",
+      "status": "active",
+      "recommended_before": [],
+      "recommended_after": [
+        "uuu-2055"
+      ],
+      "faq": [],
+      "source_url": "https://www.uuu.com.tw/Course/Show/3547/ACCW-AI",
+      "last_synced_at": "2026-10-30T14:30:00+08:00",
+      "last_verified_at": null,
+      "pending_review_reason": null
+    },
+    {
+      "course_id": "uuu-2055",
+      "code": "GH300-AI",
+      "name": "使用GitHub Copilot提高Coding生產力-程式設計AI詠唱",
+      "primary_category": "AI-03",
+      "tags": [
+        "ai-coding",
+        "software"
+      ],
+      "level": "待確認",
+      "target_roles": [
+        "developer"
+      ],
+      "plain_description": "待確認",
+      "sales_description": "待確認",
+      "prerequisites": "待確認",
+      "needs_programming": "待確認",
+      "needs_python": "待確認",
+      "needs_ml_basics": "否",
+      "hours": null,
+      "price": null,
+      "course_url": "https://www.uuu.com.tw/Course/Show/2055/GH300-AI",
+      "schedule_url": "",
+      "status": "active",
+      "recommended_before": [
+        "uuu-3547"
+      ],
+      "recommended_after": [],
+      "faq": [],
+      "source_url": "https://www.uuu.com.tw/Course/Show/2055/GH300-AI",
+      "last_synced_at": "2026-10-30T14:30:00+08:00",
+      "last_verified_at": null,
+      "pending_review_reason": null
+    },
+    {
+      "course_id": "uuu-3171",
+      "code": "PYML-AI",
+      "name": "Python機器學習-使用Scikit-Learn",
+      "primary_category": "AI-05",
+      "tags": [
+        "python",
+        "machine-learning"
+      ],
+      "level": "待確認",
+      "target_roles": [
+        "data-practitioner"
+      ],
+      "plain_description": "待確認",
+      "sales_description": "待確認",
+      "prerequisites": "待確認",
+      "needs_programming": "待確認",
+      "needs_python": "待確認",
+      "needs_ml_basics": "否",
+      "hours": null,
+      "price": null,
+      "course_url": "https://www.uuu.com.tw/Course/Show/3171/PYML-AI",
+      "schedule_url": "",
+      "status": "active",
+      "recommended_before": [],
+      "recommended_after": [
+        "uuu-3172"
+      ],
+      "faq": [],
+      "source_url": "https://www.uuu.com.tw/Course/Show/3171/PYML-AI",
+      "last_synced_at": "2026-10-30T14:30:00+08:00",
+      "last_verified_at": null,
+      "pending_review_reason": null
+    },
+    {
+      "course_id": "uuu-3172",
+      "code": "PyKT-AI",
+      "name": "Python與機器學習深度學習-使用Keras與TensorFlow",
+      "primary_category": "AI-05",
+      "tags": [
+        "python",
+        "machine-learning"
+      ],
+      "level": "待確認",
+      "target_roles": [
+        "data-practitioner"
+      ],
+      "plain_description": "待確認",
+      "sales_description": "待確認",
+      "prerequisites": "待確認",
+      "needs_programming": "待確認",
+      "needs_python": "待確認",
+      "needs_ml_basics": "否",
+      "hours": null,
+      "price": null,
+      "course_url": "https://www.uuu.com.tw/Course/Show/3172/PyKT-AI",
+      "schedule_url": "",
+      "status": "active",
+      "recommended_before": [
+        "uuu-3171"
+      ],
+      "recommended_after": [
+        "uuu-2023"
+      ],
+      "faq": [],
+      "source_url": "https://www.uuu.com.tw/Course/Show/3172/PyKT-AI",
+      "last_synced_at": "2026-10-30T14:30:00+08:00",
+      "last_verified_at": null,
+      "pending_review_reason": null
+    },
+    {
+      "course_id": "uuu-2023",
+      "code": "PNLP-AI",
+      "name": "Python中文自然語言NLP深度學習與大型語言LLM專家課程",
+      "primary_category": "AI-05",
+      "tags": [
+        "python",
+        "machine-learning"
+      ],
+      "level": "待確認",
+      "target_roles": [
+        "data-practitioner"
+      ],
+      "plain_description": "待確認",
+      "sales_description": "待確認",
+      "prerequisites": "待確認",
+      "needs_programming": "待確認",
+      "needs_python": "待確認",
+      "needs_ml_basics": "否",
+      "hours": null,
+      "price": null,
+      "course_url": "https://www.uuu.com.tw/Course/Show/2023/PNLP-AI",
+      "schedule_url": "",
+      "status": "active",
+      "recommended_before": [
+        "uuu-3172"
+      ],
+      "recommended_after": [],
+      "faq": [],
+      "source_url": "https://www.uuu.com.tw/Course/Show/2023/PNLP-AI",
+      "last_synced_at": "2026-10-30T14:30:00+08:00",
+      "last_verified_at": null,
+      "pending_review_reason": null
+    },
+    {
+      "course_id": "uuu-3196",
+      "code": "AWAIML-AI",
+      "name": "Generative AI Essentials on AWS",
+      "primary_category": "AI-06",
+      "tags": [
+        "cloud-ai",
+        "generative-ai"
+      ],
+      "level": "待確認",
+      "target_roles": [
+        "cloud-engineer"
+      ],
+      "plain_description": "待確認",
+      "sales_description": "待確認",
+      "prerequisites": "待確認",
+      "needs_programming": "待確認",
+      "needs_python": "待確認",
+      "needs_ml_basics": "否",
+      "hours": null,
+      "price": null,
+      "course_url": "https://www.uuu.com.tw/Course/Show/3196/AWAIML-AI",
+      "schedule_url": "",
+      "status": "active",
+      "recommended_before": [],
+      "recommended_after": [
+        "uuu-pending-org-ai"
+      ],
+      "faq": [],
+      "source_url": "https://www.uuu.com.tw/Course/Show/3196/AWAIML-AI",
+      "last_synced_at": "2026-10-30T14:30:00+08:00",
+      "last_verified_at": null,
+      "pending_review_reason": null
+    },
+    {
+      "course_id": "uuu-pending-org-ai",
+      "code": "",
+      "name": "推動組織中的 AI 轉型",
+      "primary_category": "AI-06",
+      "tags": [],
+      "level": "待確認",
+      "target_roles": [],
+      "plain_description": "待確認",
+      "sales_description": "待確認",
+      "prerequisites": "待確認",
+      "needs_programming": "否",
+      "needs_python": "否",
+      "needs_ml_basics": "否",
+      "hours": null,
+      "price": null,
+      "course_url": "",
+      "schedule_url": "",
+      "status": "pending_review",
+      "recommended_before": [
+        "uuu-3196"
+      ],
+      "recommended_after": [],
+      "faq": [],
+      "source_url": "https://www.uuu.com.tw/Course",
+      "last_synced_at": "2026-10-30T14:30:00+08:00",
+      "last_verified_at": null,
+      "pending_review_reason": "官網兩類清單中未找到對應頁"
+    }
+  ],
+  "tracks": [
+    "AI-01",
+    "AI-02",
+    "AI-03",
+    "AI-04",
+    "AI-05",
+    "AI-06"
+  ]
+}
