@@ -40,24 +40,6 @@ npm run preview
 
 頁面只產生學習方向與課程連結參考。它不代為報名、不收費、不承諾錄取或就業。開課狀態與條件請以官方課程頁的最新內容為準。
 
-## 放到 Google Sites
-
-把這個網址交給 Sites，不要嵌原始碼倉庫：
-
-https://jerryaspx.github.io/ai-course-navigator/
-
-**連結（建議）：**
-
-1. 在 Google Sites 編輯器選擇插入 → 按鈕，或插入一段文字。
-2. 連結貼上上面的網址。
-3. 發佈網站。學員點下去會在新分頁開啟導航。
-
-**嵌入：**
-
-1. 插入 → 嵌入 → 依網址。
-2. 貼上同一個網址。
-3. 若 Sites 顯示無法嵌入，是因為 GitHub Pages 不允許被其他網站用框架載入。改用上一節的按鈕或文字連結即可。
-
 ## 開啟 GitHub Pages（只需一次）
 
 這個倉庫不用 GitHub Actions 重建。`main` 保留原始碼，也保留已建置的 `dist/`。公開網站來自 `gh-pages`：該分支根目錄已經是 `dist/` 的內容（`index.html`、`assets/`），另加一個空的 `.nojekyll`，避免 GitHub Pages 用 Jekyll 處理 Vite 產物。
